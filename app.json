@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "reactNativeTemplete",
+    "slug": "reactNativeTemplete",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/palayanLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/palayan_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/palayanLogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
